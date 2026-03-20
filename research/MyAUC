@@ -3,3 +3,4 @@
  The app also asks if one uses the stairs or elevators to give the right navigation from the starting point to the stairs/elevator and then from the next floor of the stairs/elevator to the end point.
  The app does not navigate all places. Like, from the Department of History to Butcher Burger, it gives "The Location you requested could not be found. We are working on it ...".
  The app is not a live tracker. It just draws a line from the starting point to the end point (static routing).
+ The app explores the campus map.
