@@ -1,0 +1,26 @@
+#Step 1: Get the Tools (One-Time Setup)
+  Install Flutter: The "Engine" that runs your app.
+  Install VS Code: my "Writing Pad" where I type the code.
+  Install Android Studio: Just so my laptop can "talk" to Android phones.
+  Install Xcode: (for Mac) So my laptop can "talk" to iPhones.
+
+#Step 2: Create the Project (The Skeleton)
+  Type: flutter create my_auc_app
+  The Result: get one folder with everything inside.
+  The lib folder: write the code here.
+
+#Step 3: Write the Code (The "Once" Rule)
+  Only write the code once.
+  Open the file called main.dart.
+  Type in Dart: "Make a button that says 'Find Room'."
+  The Result: That button is now ready for both Android and iPhone.
+
+#Step 4: See it on the Phone (Testing)
+  Android: Plug in an Android phone and press "Play" in VS Code. The app appears.
+  iPhone: Plug in an iPhone and press "Play." The same app appears.
+  Change something: If I change the button to Green and hit "Save," it changes on both phones instantly (Hot Reload).
+
+#Step 5: The "Final Gift" (Building)
+  When the project is finished, just turn the code into a file I can share.
+  For Android: You get an .APK file.
+  For iPhone: You get an .IPA file.
