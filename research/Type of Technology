@@ -1,0 +1,8 @@
+#Flutter Framework & Dart Programming Language
+ It can be used on iPhone and Android.
+ Pixel-perfect indoor map for the HUSS building that looks identical on all devices.
+ It uses the Impeller rendering engine, which talks directly to the phone's GPU. This ensures smooth 60 FPS (frames per second) animations when the user is navigating.
+ 
+ Platform: iOS & Android.
+ Framework: Flutter.
+ Language: Dart & C.
